@@ -59,6 +59,8 @@ define( 'NONCE_SALT',       'S9gFcUccw>H:1Sp8RnkTJZtEEqo,Sax8i3RLx~P1YefZr!xm1&1
 
 /**#@-*/
 
+define('FS_METHOD', 'direct');
+
 /**
  * WordPress database table prefix.
  *
